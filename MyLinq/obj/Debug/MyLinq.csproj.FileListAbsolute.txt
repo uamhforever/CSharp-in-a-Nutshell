@@ -1,0 +1,7 @@
+F:\Learn\00.基础\CSharp in a Nutshell\MyLinq\bin\Debug\MyLinq.exe.config
+F:\Learn\00.基础\CSharp in a Nutshell\MyLinq\bin\Debug\MyLinq.exe
+F:\Learn\00.基础\CSharp in a Nutshell\MyLinq\bin\Debug\MyLinq.pdb
+F:\Learn\00.基础\CSharp in a Nutshell\MyLinq\obj\Debug\MyLinq.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp in a Nutshell\MyLinq\obj\Debug\MyLinq.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp in a Nutshell\MyLinq\obj\Debug\MyLinq.exe
+F:\Learn\00.基础\CSharp in a Nutshell\MyLinq\obj\Debug\MyLinq.pdb

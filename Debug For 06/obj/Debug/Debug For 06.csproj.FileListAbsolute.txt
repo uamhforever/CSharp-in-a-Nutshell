@@ -1,0 +1,16 @@
+F:\Learn\00.基础\CSharp in a Nutshell\Debug For 06\bin\Debug\Debug For 06.exe.config
+F:\Learn\00.基础\CSharp in a Nutshell\Debug For 06\bin\Debug\Debug For 06.exe
+F:\Learn\00.基础\CSharp in a Nutshell\Debug For 06\bin\Debug\Debug For 06.pdb
+F:\Learn\00.基础\CSharp in a Nutshell\Debug For 06\bin\Debug\[01] String and Text Handling.dll
+F:\Learn\00.基础\CSharp in a Nutshell\Debug For 06\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp in a Nutshell\Debug For 06\bin\Debug\[01] String and Text Handling.pdb
+F:\Learn\00.基础\CSharp in a Nutshell\Debug For 06\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp in a Nutshell\Debug For 06\obj\Debug\Debug For 06.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp in a Nutshell\Debug For 06\obj\Debug\Debug For 06.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp in a Nutshell\Debug For 06\obj\Debug\Debug For 06.csproj.CopyComplete
+F:\Learn\00.基础\CSharp in a Nutshell\Debug For 06\obj\Debug\Debug For 06.exe
+F:\Learn\00.基础\CSharp in a Nutshell\Debug For 06\obj\Debug\Debug For 06.pdb
+F:\Learn\00.基础\CSharp in a Nutshell\Debug For 06\bin\Debug\[03] Formatting and Parsing.dll
+F:\Learn\00.基础\CSharp in a Nutshell\Debug For 06\bin\Debug\[03] Formatting and Parsing.pdb
+F:\Learn\00.基础\CSharp in a Nutshell\Debug For 06\bin\Debug\[09] Order Comparison.dll
+F:\Learn\00.基础\CSharp in a Nutshell\Debug For 06\bin\Debug\[09] Order Comparison.pdb

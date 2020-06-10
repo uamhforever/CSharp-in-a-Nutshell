@@ -1,0 +1,8 @@
+F:\Learn\00.基础\CSharp in a Nutshell\[25] Suspend and Resume\bin\Debug\[25] Suspend and Resume.pdb
+F:\Learn\00.基础\CSharp in a Nutshell\[25] Suspend and Resume\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp in a Nutshell\[25] Suspend and Resume\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp in a Nutshell\[25] Suspend and Resume\obj\Debug\[25] Suspend and Resume.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp in a Nutshell\[25] Suspend and Resume\obj\Debug\[25] Suspend and Resume.csproj.CopyComplete
+F:\Learn\00.基础\CSharp in a Nutshell\[25] Suspend and Resume\obj\Debug\[25] Suspend and Resume.pdb
+F:\Learn\00.基础\CSharp in a Nutshell\[25] Suspend and Resume\bin\Debug\[25] Suspend and Resume.exe
+F:\Learn\00.基础\CSharp in a Nutshell\[25] Suspend and Resume\obj\Debug\[25] Suspend and Resume.exe

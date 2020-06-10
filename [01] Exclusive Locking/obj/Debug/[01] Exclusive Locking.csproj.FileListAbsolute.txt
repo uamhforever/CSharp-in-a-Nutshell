@@ -1,0 +1,6 @@
+F:\Learn\00.基础\CSharp in a Nutshell\[01] Exclusive Locking\obj\Debug\[01] Exclusive Locking.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp in a Nutshell\[01] Exclusive Locking\bin\Debug\[01] Exclusive Locking.exe.config
+F:\Learn\00.基础\CSharp in a Nutshell\[01] Exclusive Locking\bin\Debug\[01] Exclusive Locking.exe
+F:\Learn\00.基础\CSharp in a Nutshell\[01] Exclusive Locking\bin\Debug\[01] Exclusive Locking.pdb
+F:\Learn\00.基础\CSharp in a Nutshell\[01] Exclusive Locking\obj\Debug\[01] Exclusive Locking.exe
+F:\Learn\00.基础\CSharp in a Nutshell\[01] Exclusive Locking\obj\Debug\[01] Exclusive Locking.pdb

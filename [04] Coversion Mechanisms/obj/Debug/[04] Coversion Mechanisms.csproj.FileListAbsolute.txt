@@ -1,0 +1,5 @@
+F:\Learn\00.基础\CSharp in a Nutshell\[04] Coversion Mechanisms\bin\Debug\[04] Coversion Mechanisms.dll
+F:\Learn\00.基础\CSharp in a Nutshell\[04] Coversion Mechanisms\bin\Debug\[04] Coversion Mechanisms.pdb
+F:\Learn\00.基础\CSharp in a Nutshell\[04] Coversion Mechanisms\obj\Debug\[04] Coversion Mechanisms.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp in a Nutshell\[04] Coversion Mechanisms\obj\Debug\[04] Coversion Mechanisms.dll
+F:\Learn\00.基础\CSharp in a Nutshell\[04] Coversion Mechanisms\obj\Debug\[04] Coversion Mechanisms.pdb

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectReport>
+  <File>ObjectGraph.cs</File>
+  <File>Program.cs</File>
+  <File>Properties\AssemblyInfo.cs</File>
+  <File>Tests\Aggregation.cs</File>
+  <File>Tests\Advanced\RecursiveXml.cs</File>
+</ProjectReport>

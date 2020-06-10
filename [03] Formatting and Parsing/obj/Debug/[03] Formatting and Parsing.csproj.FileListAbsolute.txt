@@ -1,0 +1,9 @@
+F:\Learn\00.基础\CSharp in a Nutshell\[03] Formatting and Parsing\bin\Debug\[03] Formatting and Parsing.dll
+F:\Learn\00.基础\CSharp in a Nutshell\[03] Formatting and Parsing\bin\Debug\[03] Formatting and Parsing.pdb
+F:\Learn\00.基础\CSharp in a Nutshell\[03] Formatting and Parsing\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp in a Nutshell\[03] Formatting and Parsing\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp in a Nutshell\[03] Formatting and Parsing\obj\Debug\[03] Formatting and Parsing.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp in a Nutshell\[03] Formatting and Parsing\obj\Debug\[03] Formatting and Parsing.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp in a Nutshell\[03] Formatting and Parsing\obj\Debug\[03] Formatting and Parsing.csproj.CopyComplete
+F:\Learn\00.基础\CSharp in a Nutshell\[03] Formatting and Parsing\obj\Debug\[03] Formatting and Parsing.dll
+F:\Learn\00.基础\CSharp in a Nutshell\[03] Formatting and Parsing\obj\Debug\[03] Formatting and Parsing.pdb

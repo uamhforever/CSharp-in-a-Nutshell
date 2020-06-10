@@ -1,0 +1,13 @@
+D:\Learn\00.基础\14.并发与异步\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Learn\00.基础\14.并发与异步\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Learn\00.基础\14.并发与异步\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Learn\00.基础\14.并发与异步\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\Learn\00.基础\14.并发与异步\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Learn\00.基础\14.并发与异步\ConsoleApp\obj\Debug\ConsoleApp.pdb
+F:\Learn\00.基础\CSharp in a Nutshell\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+F:\Learn\00.基础\CSharp in a Nutshell\ConsoleApp\bin\Debug\ConsoleApp.exe
+F:\Learn\00.基础\CSharp in a Nutshell\ConsoleApp\bin\Debug\ConsoleApp.pdb
+F:\Learn\00.基础\CSharp in a Nutshell\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp in a Nutshell\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp in a Nutshell\ConsoleApp\obj\Debug\ConsoleApp.exe
+F:\Learn\00.基础\CSharp in a Nutshell\ConsoleApp\obj\Debug\ConsoleApp.pdb
