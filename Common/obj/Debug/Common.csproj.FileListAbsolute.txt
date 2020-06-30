@@ -4,3 +4,9 @@ F:\Learn\00.基础\CSharp in a Nutshell\Common\obj\Debug\Common.csprojAssemblyRe
 F:\Learn\00.基础\CSharp in a Nutshell\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 F:\Learn\00.基础\CSharp in a Nutshell\Common\obj\Debug\Common.dll
 F:\Learn\00.基础\CSharp in a Nutshell\Common\obj\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Common\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Common\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Common\obj\Debug\Common.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Common\obj\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Common\obj\Debug\Common.pdb

@@ -1,0 +1,10 @@
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Enumeration\bin\Debug\[01] Enumeration.exe.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Enumeration\bin\Debug\[01] Enumeration.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Enumeration\bin\Debug\[01] Enumeration.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Enumeration\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Enumeration\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Enumeration\obj\Debug\[01] Enumeration.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Enumeration\obj\Debug\[01] Enumeration.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Enumeration\obj\Debug\[01] Enumeration.csproj.CopyComplete
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Enumeration\obj\Debug\[01] Enumeration.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Enumeration\obj\Debug\[01] Enumeration.pdb
