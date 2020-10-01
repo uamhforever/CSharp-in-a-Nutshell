@@ -17,30 +17,22 @@ namespace Common
             m_objTypes = new Dictionary<Type, Action<object>>();
             m_objTypes.Add(typeof(int), obj => Console.Write(obj.ToString()));
             m_objTypes.Add(typeof(string), obj => Console.Write(obj.ToString()));
+            m_objTypes.Add(typeof(int[]), obj => (obj as int[]).ToList().ForEach(o => o.Dump()));
             m_objTypes.Add(typeof(string[]), obj => (obj as string[]).ToList().ForEach(o => Console.Write(o)));
             m_objTypes.Add(typeof(Encoding), obj => Console.Write((obj as Encoding).EncodingName));
             m_objTypes.Add(typeof(TimeSpan), obj =>Console.Write( obj.ToString()) );
             m_objTypes.Add(typeof(TimeSpan?), obj => Console.Write( (obj as TimeSpan?)) );
             m_objTypes.Add(typeof(bool), obj => Console.Write(obj.ToString()));
-
+            m_objTypes.Add(typeof(ParallelQuery<int>), obj => (obj as  ParallelQuery<int>).ForAll(Console.Write));
         } 
         public static void Dump(this object obj, string data = null)
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
             if(data !=null ) Console.WriteLine(data);
-
             Console.ForegroundColor = ConsoleColor.White;
             Action<object> action = null;
             m_objTypes.TryGetValue(obj.GetType(), out action);
             action?.Invoke(obj);
-            //if (obj is int || obj is string)
-            //{
-            //    Console.Write(obj.ToString());
-            //}else if(obj is string[])
-            //{
-
-            //}
-
             Console.WriteLine();
         }
         public static void Dump(this int obj, string data = null)

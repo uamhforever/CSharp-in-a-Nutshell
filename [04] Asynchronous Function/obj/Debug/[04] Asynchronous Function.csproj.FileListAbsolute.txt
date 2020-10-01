@@ -1,0 +1,10 @@
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\bin\Debug\[04] Asynchronous Function.exe.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\bin\Debug\[04] Asynchronous Function.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\bin\Debug\[04] Asynchronous Function.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\obj\Debug\[04] Asynchronous Function.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\obj\Debug\[04] Asynchronous Function.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\obj\Debug\[04] Asynchronous Function.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\obj\Debug\[04] Asynchronous Function.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\obj\Debug\[04] Asynchronous Function.csproj.CopyComplete

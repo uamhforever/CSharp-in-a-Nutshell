@@ -45,9 +45,19 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="[01] IEqualityComparer and EqualityComparer.cs" />
+    <Compile Include="[02] IComparer and Comparer.cs" />
+    <Compile Include="[03] StringComparer.cs" />
+    <Compile Include="[04]IStructuralEquatable and IStructuralComparable.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{0C586118-8848-4EAF-B13A-C14D5EE0BA3A}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

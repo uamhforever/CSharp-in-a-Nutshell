@@ -115,7 +115,7 @@ namespace ConsoleApp2
                         });
                 int[] resultAsync =
                     text.AsParallel().Aggregate(
-                        () =>  new int[26],
+                          () => new int[26],
 
                         (accumulator, c) =>
                         {
@@ -129,7 +129,23 @@ namespace ConsoleApp2
                         finalResult => finalResult
                     );
 
-                      
+                
+
+                int[] resultAsync2 = 
+                    text.AsParallel().Aggregate(
+                               () => new int[26],
+                               (localFreqs, c) =>
+                               {
+                                   int index = char.ToUpper(c) - 'A';
+                                   if (index >= 0 && index <= 26) localFreqs[index]++;
+                                   return localFreqs;
+                               },
+                               (mainFreqs, localFreqs) =>
+                                   mainFreqs.Zip(localFreqs, (f1, f2) => f1 + f2).ToArray(),
+                               finalResult => finalResult
+
+                      );
+
             }
 
             // Parallel 类

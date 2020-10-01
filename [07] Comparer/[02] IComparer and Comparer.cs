@@ -24,7 +24,7 @@ namespace _07__Comparer
                 wishList.Dump();
             }
             {
-                var dic = new SortedDictionary<string, string>(new SurnameComparer(CultureInfo.GetCultureInfo("de-DE")));
+                var dic = new SortedDictionary<string, string>(new SurnameComparerWithCulture(CultureInfo.GetCultureInfo("de-DE")));
                 dic.Add("MacPhail", "second!");
                 dic.Add("MacWilliam", "third!");
                 dic.Add("McDonald", "first!");

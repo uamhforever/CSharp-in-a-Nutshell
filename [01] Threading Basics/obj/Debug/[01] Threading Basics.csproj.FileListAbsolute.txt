@@ -1,0 +1,10 @@
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Threading Basics\bin\Debug\[01] Threading Basics.exe.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Threading Basics\bin\Debug\[01] Threading Basics.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Threading Basics\bin\Debug\[01] Threading Basics.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Threading Basics\obj\Debug\[01] Threading Basics.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Threading Basics\obj\Debug\[01] Threading Basics.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Threading Basics\obj\Debug\[01] Threading Basics.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Threading Basics\obj\Debug\[01] Threading Basics.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Threading Basics\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Threading Basics\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] Threading Basics\obj\Debug\[01] Threading Basics.csproj.CopyComplete

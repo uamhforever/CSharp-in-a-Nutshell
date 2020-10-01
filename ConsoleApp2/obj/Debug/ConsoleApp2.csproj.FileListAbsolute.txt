@@ -5,3 +5,10 @@ F:\Learn\00.基础\CSharp in a Nutshell\ConsoleApp2\obj\Debug\ConsoleApp2.csproj
 F:\Learn\00.基础\CSharp in a Nutshell\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
 F:\Learn\00.基础\CSharp in a Nutshell\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 F:\Learn\00.基础\CSharp in a Nutshell\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

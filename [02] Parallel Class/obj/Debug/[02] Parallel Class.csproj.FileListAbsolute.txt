@@ -1,0 +1,6 @@
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Parallel Class\bin\Debug\[02] Parallel Class.exe.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Parallel Class\bin\Debug\[02] Parallel Class.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Parallel Class\bin\Debug\[02] Parallel Class.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Parallel Class\obj\Debug\[02] Parallel Class.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Parallel Class\obj\Debug\[02] Parallel Class.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Parallel Class\obj\Debug\[02] Parallel Class.pdb
