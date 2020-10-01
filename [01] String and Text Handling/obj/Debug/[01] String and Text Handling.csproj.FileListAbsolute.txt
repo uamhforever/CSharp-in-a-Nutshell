@@ -7,3 +7,12 @@ F:\Learn\00.基础\CSharp in a Nutshell\[01] String and Text Handling\obj\Debug\
 F:\Learn\00.基础\CSharp in a Nutshell\[01] String and Text Handling\obj\Debug\[01] String and Text Handling.csproj.CopyComplete
 F:\Learn\00.基础\CSharp in a Nutshell\[01] String and Text Handling\obj\Debug\[01] String and Text Handling.dll
 F:\Learn\00.基础\CSharp in a Nutshell\[01] String and Text Handling\obj\Debug\[01] String and Text Handling.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] String and Text Handling\bin\Debug\[01] String and Text Handling.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] String and Text Handling\bin\Debug\[01] String and Text Handling.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] String and Text Handling\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] String and Text Handling\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] String and Text Handling\obj\Debug\[01] String and Text Handling.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] String and Text Handling\obj\Debug\[01] String and Text Handling.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] String and Text Handling\obj\Debug\[01] String and Text Handling.csproj.CopyComplete
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] String and Text Handling\obj\Debug\[01] String and Text Handling.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] String and Text Handling\obj\Debug\[01] String and Text Handling.pdb

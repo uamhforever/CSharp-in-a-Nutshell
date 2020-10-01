@@ -81,3 +81,14 @@ F:\Learn\00.基础\CSharp in a Nutshell\Ruanmou.Advaned.Lottery\obj\Debug\Ruanmo
 F:\Learn\00.基础\CSharp in a Nutshell\Ruanmou.Advaned.Lottery\obj\Debug\Ruanmou.Advaned.Lottery.csproj.CoreCompileInputs.cache
 F:\Learn\00.基础\CSharp in a Nutshell\Ruanmou.Advaned.Lottery\obj\Debug\Ruanmou.Advaned.Lottery.exe
 F:\Learn\00.基础\CSharp in a Nutshell\Ruanmou.Advaned.Lottery\obj\Debug\Ruanmou.Advaned.Lottery.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Ruanmou.Advaned.Lottery\bin\Debug\Ruanmou.Advaned.Lottery.exe.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Ruanmou.Advaned.Lottery\bin\Debug\Ruanmou.Advaned.Lottery.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Ruanmou.Advaned.Lottery\bin\Debug\Ruanmou.Advaned.Lottery.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Ruanmou.Advaned.Lottery\obj\Debug\Ruanmou.Advaned.Lottery.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Ruanmou.Advaned.Lottery\obj\Debug\Ruanmou.Advaned.Lottery.Form1.resources
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Ruanmou.Advaned.Lottery\obj\Debug\Ruanmou.Advaned.Lottery.frmSSQ.resources
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Ruanmou.Advaned.Lottery\obj\Debug\Ruanmou.Advaned.Lottery.Properties.Resources.resources
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Ruanmou.Advaned.Lottery\obj\Debug\Ruanmou.Advaned.Lottery.csproj.GenerateResource.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Ruanmou.Advaned.Lottery\obj\Debug\Ruanmou.Advaned.Lottery.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Ruanmou.Advaned.Lottery\obj\Debug\Ruanmou.Advaned.Lottery.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\Ruanmou.Advaned.Lottery\obj\Debug\Ruanmou.Advaned.Lottery.pdb

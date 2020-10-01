@@ -3,7 +3,6 @@ F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] PINQ\bin\Debug\[01] PINQ.exe
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] PINQ\bin\Debug\[01] PINQ.pdb
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] PINQ\bin\Debug\Common.dll
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] PINQ\bin\Debug\Common.pdb
-F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] PINQ\obj\Debug\[01] PINQ.csprojAssemblyReference.cache
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] PINQ\obj\Debug\[01] PINQ.csproj.CoreCompileInputs.cache
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] PINQ\obj\Debug\[01] PINQ.csproj.CopyComplete
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] PINQ\obj\Debug\[01] PINQ.exe

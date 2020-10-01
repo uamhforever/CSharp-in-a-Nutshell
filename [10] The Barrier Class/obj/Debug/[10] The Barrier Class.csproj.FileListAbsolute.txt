@@ -3,3 +3,8 @@ F:\Learn\00.基础\CSharp in a Nutshell\[10] The Barrier Class\obj\Debug\[10] Th
 F:\Learn\00.基础\CSharp in a Nutshell\[10] The Barrier Class\obj\Debug\[10] The Barrier Class.pdb
 F:\Learn\00.基础\CSharp in a Nutshell\[10] The Barrier Class\bin\Debug\[10] The Barrier Class.exe
 F:\Learn\00.基础\CSharp in a Nutshell\[10] The Barrier Class\obj\Debug\[10] The Barrier Class.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[10] The Barrier Class\bin\Debug\[10] The Barrier Class.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[10] The Barrier Class\bin\Debug\[10] The Barrier Class.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[10] The Barrier Class\obj\Debug\[10] The Barrier Class.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[10] The Barrier Class\obj\Debug\[10] The Barrier Class.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[10] The Barrier Class\obj\Debug\[10] The Barrier Class.pdb

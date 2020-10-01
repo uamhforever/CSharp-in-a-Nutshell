@@ -3,3 +3,8 @@ F:\Learn\00.基础\CSharp in a Nutshell\[40] EXTRA - Wait and Pulse\obj\Debug\[4
 F:\Learn\00.基础\CSharp in a Nutshell\[40] EXTRA - Wait and Pulse\obj\Debug\[40] EXTRA - Wait and Pulse.pdb
 F:\Learn\00.基础\CSharp in a Nutshell\[40] EXTRA - Wait and Pulse\bin\Debug\[40] EXTRA - Wait and Pulse.exe
 F:\Learn\00.基础\CSharp in a Nutshell\[40] EXTRA - Wait and Pulse\obj\Debug\[40] EXTRA - Wait and Pulse.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[40] EXTRA - Wait and Pulse\bin\Debug\[40] EXTRA - Wait and Pulse.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[40] EXTRA - Wait and Pulse\bin\Debug\[40] EXTRA - Wait and Pulse.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[40] EXTRA - Wait and Pulse\obj\Debug\[40] EXTRA - Wait and Pulse.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[40] EXTRA - Wait and Pulse\obj\Debug\[40] EXTRA - Wait and Pulse.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[40] EXTRA - Wait and Pulse\obj\Debug\[40] EXTRA - Wait and Pulse.pdb

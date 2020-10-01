@@ -3,3 +3,8 @@ F:\Learn\00.基础\CSharp in a Nutshell\[30] Timers\obj\Debug\[30] Timers.csproj
 F:\Learn\00.基础\CSharp in a Nutshell\[30] Timers\obj\Debug\[30] Timers.pdb
 F:\Learn\00.基础\CSharp in a Nutshell\[30] Timers\bin\Debug\[30] Timers.exe
 F:\Learn\00.基础\CSharp in a Nutshell\[30] Timers\obj\Debug\[30] Timers.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[30] Timers\bin\Debug\[30] Timers.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[30] Timers\bin\Debug\[30] Timers.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[30] Timers\obj\Debug\[30] Timers.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[30] Timers\obj\Debug\[30] Timers.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[30] Timers\obj\Debug\[30] Timers.pdb

@@ -3,3 +3,12 @@ F:\Learn\00.基础\CSharp in a Nutshell\[07] The Guid Struct\bin\Debug\[07] The 
 F:\Learn\00.基础\CSharp in a Nutshell\[07] The Guid Struct\obj\Debug\[07] The Guid Struct.csproj.CoreCompileInputs.cache
 F:\Learn\00.基础\CSharp in a Nutshell\[07] The Guid Struct\obj\Debug\[07] The Guid Struct.dll
 F:\Learn\00.基础\CSharp in a Nutshell\[07] The Guid Struct\obj\Debug\[07] The Guid Struct.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] The Guid Struct\bin\Debug\[07] The Guid Struct.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] The Guid Struct\bin\Debug\[07] The Guid Struct.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] The Guid Struct\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] The Guid Struct\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] The Guid Struct\obj\Debug\[07] The Guid Struct.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] The Guid Struct\obj\Debug\[07] The Guid Struct.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] The Guid Struct\obj\Debug\[07] The Guid Struct.csproj.CopyComplete
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] The Guid Struct\obj\Debug\[07] The Guid Struct.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] The Guid Struct\obj\Debug\[07] The Guid Struct.pdb

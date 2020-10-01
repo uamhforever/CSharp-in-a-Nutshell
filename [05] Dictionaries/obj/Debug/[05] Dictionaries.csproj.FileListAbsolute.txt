@@ -1,0 +1,9 @@
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Dictionaries\bin\Debug\[05] Dictionaries.exe.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Dictionaries\bin\Debug\[05] Dictionaries.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Dictionaries\bin\Debug\[05] Dictionaries.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Dictionaries\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Dictionaries\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Dictionaries\obj\Debug\[05] Dictionaries.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Dictionaries\obj\Debug\[05] Dictionaries.csproj.CopyComplete
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Dictionaries\obj\Debug\[05] Dictionaries.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Dictionaries\obj\Debug\[05] Dictionaries.pdb

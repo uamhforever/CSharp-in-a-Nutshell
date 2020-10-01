@@ -15,3 +15,20 @@ F:\Learn\00.基础\CSharp in a Nutshell\MyLiinqOperators\obj\Debug\MyLiinqOperat
 F:\Learn\00.基础\CSharp in a Nutshell\MyLiinqOperators\obj\Debug\MyLiinqOperators.exe
 F:\Learn\00.基础\CSharp in a Nutshell\MyLiinqOperators\obj\Debug\MyLiinqOperators.pdb
 F:\Learn\00.基础\CSharp in a Nutshell\MyLiinqOperators\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\bin\Debug\MyLiinqOperators.exe.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\bin\Debug\MyLiinqOperators.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\bin\Debug\MyLiinqOperators.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\bin\Debug\EntityFramework.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\bin\Debug\EntityFramework.SqlServer.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\bin\Debug\LinqDBModel.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\bin\Debug\LinqDBModel.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\bin\Debug\LinqDBModel.dll.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\bin\Debug\EntityFramework.xml
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\bin\Debug\EntityFramework.SqlServer.xml
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\obj\Debug\MyLiinqOperators.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\obj\Debug\MyLiinqOperators.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\obj\Debug\MyLiinqOperators.csproj.CopyComplete
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\obj\Debug\MyLiinqOperators.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyLiinqOperators\obj\Debug\MyLiinqOperators.pdb

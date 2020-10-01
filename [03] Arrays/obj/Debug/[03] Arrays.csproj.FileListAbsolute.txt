@@ -1,0 +1,10 @@
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Arrays\bin\Debug\[03] Arrays.exe.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Arrays\bin\Debug\[03] Arrays.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Arrays\bin\Debug\[03] Arrays.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Arrays\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Arrays\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Arrays\obj\Debug\[03] Arrays.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Arrays\obj\Debug\[03] Arrays.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Arrays\obj\Debug\[03] Arrays.csproj.CopyComplete
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Arrays\obj\Debug\[03] Arrays.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Arrays\obj\Debug\[03] Arrays.pdb

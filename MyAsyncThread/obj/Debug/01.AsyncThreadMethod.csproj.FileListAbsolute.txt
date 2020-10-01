@@ -7,3 +7,12 @@ F:\Learn\00.基础\CSharp in a Nutshell\MyAsyncThread\obj\Debug\01.AsyncThreadMe
 F:\Learn\00.基础\CSharp in a Nutshell\MyAsyncThread\obj\Debug\01.AsyncThreadMethod.csproj.CoreCompileInputs.cache
 F:\Learn\00.基础\CSharp in a Nutshell\MyAsyncThread\obj\Debug\MyAsyncThread.exe
 F:\Learn\00.基础\CSharp in a Nutshell\MyAsyncThread\obj\Debug\MyAsyncThread.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyAsyncThread\bin\Debug\MyAsyncThread.exe.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyAsyncThread\bin\Debug\MyAsyncThread.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyAsyncThread\bin\Debug\MyAsyncThread.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyAsyncThread\obj\Debug\01.AsyncThreadMethod.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyAsyncThread\obj\Debug\MyAsyncThread.Properties.Resources.resources
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyAsyncThread\obj\Debug\01.AsyncThreadMethod.csproj.GenerateResource.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyAsyncThread\obj\Debug\01.AsyncThreadMethod.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyAsyncThread\obj\Debug\MyAsyncThread.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\MyAsyncThread\obj\Debug\MyAsyncThread.pdb

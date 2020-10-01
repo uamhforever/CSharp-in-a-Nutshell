@@ -1,7 +1,6 @@
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Tasks\bin\Debug\[02] Tasks.exe.config
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Tasks\bin\Debug\[02] Tasks.exe
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Tasks\bin\Debug\[02] Tasks.pdb
-F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Tasks\obj\Debug\[02] Tasks.csprojAssemblyReference.cache
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Tasks\obj\Debug\[02] Tasks.csproj.CoreCompileInputs.cache
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Tasks\obj\Debug\[02] Tasks.exe
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Tasks\obj\Debug\[02] Tasks.pdb

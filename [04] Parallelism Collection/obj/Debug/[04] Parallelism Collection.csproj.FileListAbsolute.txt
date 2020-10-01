@@ -1,0 +1,9 @@
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Parallelism Collection\bin\Debug\[04] Parallelism Collection.exe.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Parallelism Collection\bin\Debug\[04] Parallelism Collection.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Parallelism Collection\bin\Debug\[04] Parallelism Collection.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Parallelism Collection\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Parallelism Collection\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Parallelism Collection\obj\Debug\[04] Parallelism Collection.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Parallelism Collection\obj\Debug\[04] Parallelism Collection.csproj.CopyComplete
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Parallelism Collection\obj\Debug\[04] Parallelism Collection.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Parallelism Collection\obj\Debug\[04] Parallelism Collection.pdb

@@ -3,3 +3,8 @@ F:\Learn\00.基础\CSharp in a Nutshell\[05] Working with Numbers\bin\Debug\[05]
 F:\Learn\00.基础\CSharp in a Nutshell\[05] Working with Numbers\obj\Debug\[05] Working with Numbers.csproj.CoreCompileInputs.cache
 F:\Learn\00.基础\CSharp in a Nutshell\[05] Working with Numbers\obj\Debug\[05] Working with Numbers.dll
 F:\Learn\00.基础\CSharp in a Nutshell\[05] Working with Numbers\obj\Debug\[05] Working with Numbers.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Working with Numbers\bin\Debug\[05] Working with Numbers.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Working with Numbers\bin\Debug\[05] Working with Numbers.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Working with Numbers\obj\Debug\[05] Working with Numbers.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Working with Numbers\obj\Debug\[05] Working with Numbers.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Working with Numbers\obj\Debug\[05] Working with Numbers.pdb

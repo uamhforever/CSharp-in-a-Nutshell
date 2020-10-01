@@ -1,0 +1,10 @@
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] Comparer\bin\Debug\[07] Comparer.exe.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] Comparer\bin\Debug\[07] Comparer.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] Comparer\bin\Debug\[07] Comparer.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] Comparer\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] Comparer\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] Comparer\obj\Debug\[07] Comparer.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] Comparer\obj\Debug\[07] Comparer.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] Comparer\obj\Debug\[07] Comparer.csproj.CopyComplete
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] Comparer\obj\Debug\[07] Comparer.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[07] Comparer\obj\Debug\[07] Comparer.pdb

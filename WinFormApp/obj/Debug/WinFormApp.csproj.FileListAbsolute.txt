@@ -1,0 +1,9 @@
+F:\Learn\00.基础\CSharp-in-a-Nutshell\WinFormApp\bin\Debug\WinFormApp.exe.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\WinFormApp\bin\Debug\WinFormApp.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\WinFormApp\bin\Debug\WinFormApp.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\WinFormApp\obj\Debug\WinFormApp.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\WinFormApp\obj\Debug\WinFormApp.Properties.Resources.resources
+F:\Learn\00.基础\CSharp-in-a-Nutshell\WinFormApp\obj\Debug\WinFormApp.csproj.GenerateResource.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\WinFormApp\obj\Debug\WinFormApp.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\WinFormApp\obj\Debug\WinFormApp.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\WinFormApp\obj\Debug\WinFormApp.pdb

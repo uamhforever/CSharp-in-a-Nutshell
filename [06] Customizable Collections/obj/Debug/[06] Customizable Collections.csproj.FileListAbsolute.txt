@@ -1,0 +1,6 @@
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[06] Customizable Collections\bin\Debug\[06] Customizable Collections.exe.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[06] Customizable Collections\bin\Debug\[06] Customizable Collections.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[06] Customizable Collections\bin\Debug\[06] Customizable Collections.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[06] Customizable Collections\obj\Debug\[06] Customizable Collections.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[06] Customizable Collections\obj\Debug\[06] Customizable Collections.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[06] Customizable Collections\obj\Debug\[06] Customizable Collections.pdb

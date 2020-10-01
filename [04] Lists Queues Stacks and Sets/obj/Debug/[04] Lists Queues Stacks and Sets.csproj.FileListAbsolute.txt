@@ -1,0 +1,9 @@
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Lists Queues Stacks and Sets\bin\Debug\[04] Lists Queues Stacks and Sets.exe.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Lists Queues Stacks and Sets\bin\Debug\[04] Lists Queues Stacks and Sets.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Lists Queues Stacks and Sets\bin\Debug\[04] Lists Queues Stacks and Sets.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Lists Queues Stacks and Sets\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Lists Queues Stacks and Sets\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Lists Queues Stacks and Sets\obj\Debug\[04] Lists Queues Stacks and Sets.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Lists Queues Stacks and Sets\obj\Debug\[04] Lists Queues Stacks and Sets.csproj.CopyComplete
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Lists Queues Stacks and Sets\obj\Debug\[04] Lists Queues Stacks and Sets.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Lists Queues Stacks and Sets\obj\Debug\[04] Lists Queues Stacks and Sets.pdb

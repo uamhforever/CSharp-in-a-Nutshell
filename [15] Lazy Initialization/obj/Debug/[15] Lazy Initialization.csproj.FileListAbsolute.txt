@@ -6,3 +6,12 @@ F:\Learn\00.基础\CSharp in a Nutshell\[15] Lazy Initialization\obj\Debug\[15] 
 F:\Learn\00.基础\CSharp in a Nutshell\[15] Lazy Initialization\obj\Debug\[15] Lazy Initialization.pdb
 F:\Learn\00.基础\CSharp in a Nutshell\[15] Lazy Initialization\bin\Debug\[15] Lazy Initialization.exe
 F:\Learn\00.基础\CSharp in a Nutshell\[15] Lazy Initialization\obj\Debug\[15] Lazy Initialization.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[15] Lazy Initialization\bin\Debug\[15] Lazy Initialization.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[15] Lazy Initialization\bin\Debug\[15] Lazy Initialization.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[15] Lazy Initialization\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[15] Lazy Initialization\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[15] Lazy Initialization\obj\Debug\[15] Lazy Initialization.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[15] Lazy Initialization\obj\Debug\[15] Lazy Initialization.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[15] Lazy Initialization\obj\Debug\[15] Lazy Initialization.csproj.CopyComplete
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[15] Lazy Initialization\obj\Debug\[15] Lazy Initialization.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[15] Lazy Initialization\obj\Debug\[15] Lazy Initialization.pdb

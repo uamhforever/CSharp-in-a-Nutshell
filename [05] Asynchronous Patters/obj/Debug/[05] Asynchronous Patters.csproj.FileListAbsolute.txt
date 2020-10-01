@@ -1,7 +1,6 @@
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Asynchronous Patters\bin\Debug\[05] Asynchronous Patters.exe.config
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Asynchronous Patters\bin\Debug\[05] Asynchronous Patters.exe
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Asynchronous Patters\bin\Debug\[05] Asynchronous Patters.pdb
-F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Asynchronous Patters\obj\Debug\[05] Asynchronous Patters.csprojAssemblyReference.cache
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Asynchronous Patters\obj\Debug\[05] Asynchronous Patters.csproj.CoreCompileInputs.cache
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Asynchronous Patters\obj\Debug\[05] Asynchronous Patters.exe
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Asynchronous Patters\obj\Debug\[05] Asynchronous Patters.pdb

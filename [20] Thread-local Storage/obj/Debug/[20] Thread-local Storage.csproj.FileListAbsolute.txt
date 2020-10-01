@@ -7,3 +7,12 @@ F:\Learn\00.基础\CSharp in a Nutshell\[20] Thread-local Storage\obj\Debug\[20]
 F:\Learn\00.基础\CSharp in a Nutshell\[20] Thread-local Storage\obj\Debug\[20] Thread-local Storage.exe
 F:\Learn\00.基础\CSharp in a Nutshell\[20] Thread-local Storage\obj\Debug\[20] Thread-local Storage.pdb
 F:\Learn\00.基础\CSharp in a Nutshell\[20] Thread-local Storage\obj\Debug\[20] Thread-local Storage.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[20] Thread-local Storage\bin\Debug\[20] Thread-local Storage.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[20] Thread-local Storage\bin\Debug\[20] Thread-local Storage.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[20] Thread-local Storage\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[20] Thread-local Storage\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[20] Thread-local Storage\obj\Debug\[20] Thread-local Storage.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[20] Thread-local Storage\obj\Debug\[20] Thread-local Storage.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[20] Thread-local Storage\obj\Debug\[20] Thread-local Storage.csproj.CopyComplete
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[20] Thread-local Storage\obj\Debug\[20] Thread-local Storage.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[20] Thread-local Storage\obj\Debug\[20] Thread-local Storage.pdb

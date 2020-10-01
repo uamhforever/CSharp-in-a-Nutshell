@@ -6,3 +6,12 @@ F:\Learn\00.基础\CSharp in a Nutshell\[05] Signaling with Event Wait Handles\o
 F:\Learn\00.基础\CSharp in a Nutshell\[05] Signaling with Event Wait Handles\obj\Debug\[05] Signaling with Event Wait Handles.pdb
 F:\Learn\00.基础\CSharp in a Nutshell\[05] Signaling with Event Wait Handles\bin\Debug\[05] Signaling with Event Wait Handles.exe
 F:\Learn\00.基础\CSharp in a Nutshell\[05] Signaling with Event Wait Handles\obj\Debug\[05] Signaling with Event Wait Handles.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Signaling with Event Wait Handles\bin\Debug\[05] Signaling with Event Wait Handles.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Signaling with Event Wait Handles\bin\Debug\[05] Signaling with Event Wait Handles.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Signaling with Event Wait Handles\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Signaling with Event Wait Handles\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Signaling with Event Wait Handles\obj\Debug\[05] Signaling with Event Wait Handles.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Signaling with Event Wait Handles\obj\Debug\[05] Signaling with Event Wait Handles.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Signaling with Event Wait Handles\obj\Debug\[05] Signaling with Event Wait Handles.csproj.CopyComplete
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Signaling with Event Wait Handles\obj\Debug\[05] Signaling with Event Wait Handles.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Signaling with Event Wait Handles\obj\Debug\[05] Signaling with Event Wait Handles.pdb

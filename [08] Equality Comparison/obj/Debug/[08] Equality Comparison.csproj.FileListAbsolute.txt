@@ -3,3 +3,12 @@ F:\Learn\00.基础\CSharp in a Nutshell\[08] Equality Comparison\bin\Debug\[08] 
 F:\Learn\00.基础\CSharp in a Nutshell\[08] Equality Comparison\obj\Debug\[08] Equality Comparison.csproj.CoreCompileInputs.cache
 F:\Learn\00.基础\CSharp in a Nutshell\[08] Equality Comparison\obj\Debug\[08] Equality Comparison.dll
 F:\Learn\00.基础\CSharp in a Nutshell\[08] Equality Comparison\obj\Debug\[08] Equality Comparison.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[08] Equality Comparison\bin\Debug\[08] Equality Comparison.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[08] Equality Comparison\bin\Debug\[08] Equality Comparison.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[08] Equality Comparison\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[08] Equality Comparison\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[08] Equality Comparison\obj\Debug\[08] Equality Comparison.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[08] Equality Comparison\obj\Debug\[08] Equality Comparison.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[08] Equality Comparison\obj\Debug\[08] Equality Comparison.csproj.CopyComplete
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[08] Equality Comparison\obj\Debug\[08] Equality Comparison.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[08] Equality Comparison\obj\Debug\[08] Equality Comparison.pdb

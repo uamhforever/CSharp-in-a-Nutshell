@@ -12,3 +12,17 @@ F:\Learn\00.基础\CSharp in a Nutshell\LinqDBModel\obj\Debug\LinqDBModel.dll
 F:\Learn\00.基础\CSharp in a Nutshell\LinqDBModel\obj\Debug\LinqDBModel.pdb
 F:\Learn\00.基础\CSharp in a Nutshell\LinqDBModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
 F:\Learn\00.基础\CSharp in a Nutshell\LinqDBModel\obj\Debug\LinqDBModel.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\LinqDBModel\bin\Debug\LinqDBModel.dll.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\LinqDBModel\bin\Debug\LinqDBModel.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\LinqDBModel\bin\Debug\LinqDBModel.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\LinqDBModel\bin\Debug\EntityFramework.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\LinqDBModel\bin\Debug\EntityFramework.SqlServer.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\LinqDBModel\bin\Debug\EntityFramework.xml
+F:\Learn\00.基础\CSharp-in-a-Nutshell\LinqDBModel\bin\Debug\EntityFramework.SqlServer.xml
+F:\Learn\00.基础\CSharp-in-a-Nutshell\LinqDBModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\LinqDBModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\LinqDBModel\obj\Debug\LinqDBModel.csprojAssemblyReference.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\LinqDBModel\obj\Debug\LinqDBModel.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\LinqDBModel\obj\Debug\LinqDBModel.csproj.CopyComplete
+F:\Learn\00.基础\CSharp-in-a-Nutshell\LinqDBModel\obj\Debug\LinqDBModel.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\LinqDBModel\obj\Debug\LinqDBModel.pdb

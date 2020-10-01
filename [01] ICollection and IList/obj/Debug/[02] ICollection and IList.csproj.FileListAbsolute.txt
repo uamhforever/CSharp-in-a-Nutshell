@@ -1,0 +1,6 @@
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] ICollection and IList\bin\Debug\[01] ICollection and IList.exe.config
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] ICollection and IList\bin\Debug\[01] ICollection and IList.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] ICollection and IList\bin\Debug\[01] ICollection and IList.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] ICollection and IList\obj\Debug\[02] ICollection and IList.csproj.CoreCompileInputs.cache
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] ICollection and IList\obj\Debug\[01] ICollection and IList.exe
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[01] ICollection and IList\obj\Debug\[01] ICollection and IList.pdb

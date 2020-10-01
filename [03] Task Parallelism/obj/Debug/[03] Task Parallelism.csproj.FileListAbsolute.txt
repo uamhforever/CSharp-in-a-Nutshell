@@ -1,7 +1,9 @@
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Task Parallelism\bin\Debug\[03] Task Parallelism.exe.config
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Task Parallelism\bin\Debug\[03] Task Parallelism.exe
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Task Parallelism\bin\Debug\[03] Task Parallelism.pdb
-F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Task Parallelism\obj\Debug\[03] Task Parallelism.csprojAssemblyReference.cache
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Task Parallelism\obj\Debug\[03] Task Parallelism.csproj.CoreCompileInputs.cache
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Task Parallelism\obj\Debug\[03] Task Parallelism.exe
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Task Parallelism\obj\Debug\[03] Task Parallelism.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Task Parallelism\bin\Debug\Common.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Task Parallelism\bin\Debug\Common.pdb
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Task Parallelism\obj\Debug\[03] Task Parallelism.csproj.CopyComplete
