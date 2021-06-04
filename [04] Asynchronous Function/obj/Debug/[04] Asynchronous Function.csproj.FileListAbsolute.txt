@@ -8,3 +8,5 @@ F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\obj\Debug\[04
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\bin\Debug\Common.dll
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\bin\Debug\Common.pdb
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\obj\Debug\[04] Asynchronous Function.csproj.CopyComplete
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\bin\Debug\System.Threading.Tasks.Dataflow.xml
