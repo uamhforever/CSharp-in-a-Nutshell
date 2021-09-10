@@ -10,3 +10,15 @@ F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\bin\Debug\Com
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\obj\Debug\[04] Asynchronous Function.csproj.CopyComplete
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\bin\Debug\System.Threading.Tasks.Dataflow.dll
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[04] Asynchronous Function\bin\Debug\System.Threading.Tasks.Dataflow.xml
+E:\Github\CSharp-in-a-Nutshell-master\[04] Asynchronous Function\bin\Debug\[04] Asynchronous Function.exe.config
+E:\Github\CSharp-in-a-Nutshell-master\[04] Asynchronous Function\bin\Debug\[04] Asynchronous Function.exe
+E:\Github\CSharp-in-a-Nutshell-master\[04] Asynchronous Function\bin\Debug\[04] Asynchronous Function.pdb
+E:\Github\CSharp-in-a-Nutshell-master\[04] Asynchronous Function\bin\Debug\Common.dll
+E:\Github\CSharp-in-a-Nutshell-master\[04] Asynchronous Function\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\Github\CSharp-in-a-Nutshell-master\[04] Asynchronous Function\bin\Debug\Common.pdb
+E:\Github\CSharp-in-a-Nutshell-master\[04] Asynchronous Function\bin\Debug\System.Threading.Tasks.Dataflow.xml
+E:\Github\CSharp-in-a-Nutshell-master\[04] Asynchronous Function\obj\Debug\[04] Asynchronous Function.csprojAssemblyReference.cache
+E:\Github\CSharp-in-a-Nutshell-master\[04] Asynchronous Function\obj\Debug\[04] Asynchronous Function.csproj.CoreCompileInputs.cache
+E:\Github\CSharp-in-a-Nutshell-master\[04] Asynchronous Function\obj\Debug\[04] Asynchronous Function.csproj.CopyComplete
+E:\Github\CSharp-in-a-Nutshell-master\[04] Asynchronous Function\obj\Debug\[04] Asynchronous Function.exe
+E:\Github\CSharp-in-a-Nutshell-master\[04] Asynchronous Function\obj\Debug\[04] Asynchronous Function.pdb

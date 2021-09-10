@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _02__Locking_and_Thread_Safety
 {
@@ -13,6 +9,12 @@ namespace _02__Locking_and_Thread_Safety
     {
         static void Main(string[] args)
         {
+            //_05__Thread_safety_in_application_servers.Show();
+
+            _10__Semaphore.Show();
+
+            Console.WriteLine("Press any key to quit...");
+            Console.ReadKey();
         }
     }
 }

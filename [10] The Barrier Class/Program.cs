@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _10__The_Barrier_Class
 {
@@ -14,6 +10,8 @@ namespace _10__The_Barrier_Class
         static void Main(string[] args)
         {
             _01__Barrier.Show();
+
+            _05__Barrier___post_phase_action.Show();
 
             Console.ReadKey();
         }

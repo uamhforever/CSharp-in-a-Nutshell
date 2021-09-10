@@ -3,7 +3,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -42,21 +41,21 @@ namespace _05__Asynchronous_Patters
 
         class MyTask
         {
-            public async void TaskWhenAnyShow()
+            public async void TaskWhenAny()
             {
                 Task<int> winningTask = await Task.WhenAny(Delay1(), Delay2(), Delay3());
                 Console.WriteLine("Done");
                 Console.WriteLine(winningTask.Result);
             }
 
-            public async void TaskWhenAnyAwaitShow()
+            public async void TaskWhenAnyAwait()
             {
                 Task<int> winningTask = await Task.WhenAny(Delay1(), Delay2(), Delay3());
                 Console.WriteLine("Done");
                 Console.WriteLine(await winningTask);
             }
 
-            public async void TaskWhenAnyTimeoutShow()
+            public async void TaskWhenAnyTimeout()
             {
                 // 添加 超时和取消功能
                 Task<string> task = SomeAsyncFunc();
@@ -113,7 +112,7 @@ namespace _05__Asynchronous_Patters
             {
                 // 任务超时 取消 或 抛异常
                 var cts = new CancellationTokenSource(3000);  // Cancel after 3 seconds
-                string result = await WithCancellation(SomeAsyncFunc(),cts.Token);
+                string result = await WithCancellation(SomeAsyncFunc(), cts.Token);
                 result.Dump();
             }
 
@@ -151,14 +150,14 @@ namespace _05__Asynchronous_Patters
                 return contentLengths.Sum();
             }
 
-             async  Task<TResult> WithTimeout<TResult>(Task<TResult> task, TimeSpan timeout)
+            async Task<TResult> WithTimeout<TResult>(Task<TResult> task, TimeSpan timeout)
             {
                 Task winner = await (Task.WhenAny(task, Task.Delay(timeout)));
                 if (winner != task) throw new TimeoutException();   // 判断 完成的任务是 task 还是 Task.Delay(timeout)
                 return await task;   // Unwrap result/re-throw
             }
 
-              Task<TResult> WithCancellation<TResult>(Task<TResult> task, CancellationToken cancelToken)
+            Task<TResult> WithCancellation<TResult>(Task<TResult> task, CancellationToken cancelToken)
             {
                 var tcs = new TaskCompletionSource<TResult>();
                 var reg = cancelToken.Register(() => { tcs.TrySetCanceled(); }); // 取消 Token 时 回调的方法
@@ -181,7 +180,7 @@ namespace _05__Asynchronous_Patters
                 var killJoy = new TaskCompletionSource<TResult[]>();
 
                 foreach (var task in tasks)
-                    task.ContinueWith(ant =>    // ContinueWith 不要访问任务的结果 不需要回弹到 UI 线程
+                    await task.ContinueWith(ant =>    // ContinueWith 不要访问任务的结果 不需要回弹到 UI 线程
                     {
                         if (ant.IsCanceled)
                             killJoy.TrySetCanceled();

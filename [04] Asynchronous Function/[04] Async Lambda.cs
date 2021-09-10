@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace _04__Asynchronous_Function
@@ -31,6 +28,7 @@ namespace _04__Asynchronous_Function
                 };
 
                 int answer = await unnamed();
+                Console.WriteLine("answer:" + answer);
             }
         }
 

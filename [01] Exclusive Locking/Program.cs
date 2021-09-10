@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 // 排他锁
 namespace _01__Exclusive_Locking
@@ -29,9 +25,7 @@ namespace _01__Exclusive_Locking
                 · 在同一时刻需要访问可写的共享字段时，加🔒(lock,Metux,SpinLock)或者发送信号✳
                 · 降低线程间的交互性，减少数据共享
                 · 对于客户端应用程序，将访问的共享状态放在UI线程上
-
-
-               */
+              */
 
 
             //_01__Simple_use_of_lock simlock = new _01__Simple_use_of_lock();

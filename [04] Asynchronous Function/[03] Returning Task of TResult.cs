@@ -1,14 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace _04__Asynchronous_Function
 {
     public class _03__Returning_Task_of_TResult
     {
-        public  void Show()
+        public void Show()
         {
             Go();
         }

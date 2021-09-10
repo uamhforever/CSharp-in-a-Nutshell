@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace _02__Tasks
 {
-   public class _03__Continuations
+    public class _03__Continuations
     {
         public static void Show()
         {
@@ -28,11 +26,11 @@ namespace _02__Tasks
                 Task<int> primeNumberTask = Task.Run(() =>
                      Enumerable.Range(2, 3000000).Count(n => Enumerable.Range(2, (int)Math.Sqrt(n) - 1).All(i => n % i > 0)));
                 primeNumberTask.ContinueWith(asyncResult =>
-                    {
-                        int result = asyncResult.Result;
-                        Console.WriteLine(result);
-                        Console.WriteLine("Continuations - ContinueWith");
-                    });
+                {
+                    int result = asyncResult.Result;
+                    Console.WriteLine(result);
+                    Console.WriteLine("Continuations - ContinueWith");
+                });
                 Console.WriteLine("Main Thread Point");
             }
         }

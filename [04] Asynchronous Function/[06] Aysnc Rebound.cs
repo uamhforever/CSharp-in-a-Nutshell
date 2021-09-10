@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 
 namespace _04__Asynchronous_Function
 {
@@ -24,7 +20,7 @@ namespace _04__Asynchronous_Function
         {
             await B();
         }
-        // 方法B 和 方法C 不会应用 UI应用程序的简单线程安全模 即  ConfigureAwait(false) 避免重复回弹到UI消息循环中， 阻止任务将延续提交到同步上下文中
+        // 方法B 和 方法C 不会应用 UI 应用程序的简单线程安全模 即  ConfigureAwait(false) 避免重复回弹到UI消息循环中， 阻止任务将延续提交到同步上下文中
         async Task B()
         {
             for (int i = 0; i < 1000; i++)

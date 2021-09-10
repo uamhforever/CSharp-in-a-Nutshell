@@ -17,3 +17,13 @@ F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Locking and Thread Safety\obj\Debug
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Locking and Thread Safety\obj\Debug\[02] Locking and Thread Safety.csproj.CopyComplete
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Locking and Thread Safety\obj\Debug\[02] Locking and Thread Safety.exe
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[02] Locking and Thread Safety\obj\Debug\[02] Locking and Thread Safety.pdb
+E:\Github\CSharp-in-a-Nutshell-master\[02] Locking and Thread Safety\bin\Debug\[02] Locking and Thread Safety.exe.config
+E:\Github\CSharp-in-a-Nutshell-master\[02] Locking and Thread Safety\bin\Debug\[02] Locking and Thread Safety.exe
+E:\Github\CSharp-in-a-Nutshell-master\[02] Locking and Thread Safety\bin\Debug\[02] Locking and Thread Safety.pdb
+E:\Github\CSharp-in-a-Nutshell-master\[02] Locking and Thread Safety\bin\Debug\Common.dll
+E:\Github\CSharp-in-a-Nutshell-master\[02] Locking and Thread Safety\bin\Debug\Common.pdb
+E:\Github\CSharp-in-a-Nutshell-master\[02] Locking and Thread Safety\obj\Debug\[02] Locking and Thread Safety.csprojAssemblyReference.cache
+E:\Github\CSharp-in-a-Nutshell-master\[02] Locking and Thread Safety\obj\Debug\[02] Locking and Thread Safety.csproj.CoreCompileInputs.cache
+E:\Github\CSharp-in-a-Nutshell-master\[02] Locking and Thread Safety\obj\Debug\[02] Locking and Thread Safety.csproj.CopyComplete
+E:\Github\CSharp-in-a-Nutshell-master\[02] Locking and Thread Safety\obj\Debug\[02] Locking and Thread Safety.exe
+E:\Github\CSharp-in-a-Nutshell-master\[02] Locking and Thread Safety\obj\Debug\[02] Locking and Thread Safety.pdb

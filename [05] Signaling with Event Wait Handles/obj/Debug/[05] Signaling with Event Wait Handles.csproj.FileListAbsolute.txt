@@ -15,3 +15,12 @@ F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Signaling with Event Wait Handles\o
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Signaling with Event Wait Handles\obj\Debug\[05] Signaling with Event Wait Handles.csproj.CopyComplete
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Signaling with Event Wait Handles\obj\Debug\[05] Signaling with Event Wait Handles.exe
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Signaling with Event Wait Handles\obj\Debug\[05] Signaling with Event Wait Handles.pdb
+E:\Github\CSharp-in-a-Nutshell-master\[05] Signaling with Event Wait Handles\bin\Debug\[05] Signaling with Event Wait Handles.exe
+E:\Github\CSharp-in-a-Nutshell-master\[05] Signaling with Event Wait Handles\bin\Debug\[05] Signaling with Event Wait Handles.pdb
+E:\Github\CSharp-in-a-Nutshell-master\[05] Signaling with Event Wait Handles\bin\Debug\Common.dll
+E:\Github\CSharp-in-a-Nutshell-master\[05] Signaling with Event Wait Handles\bin\Debug\Common.pdb
+E:\Github\CSharp-in-a-Nutshell-master\[05] Signaling with Event Wait Handles\obj\Debug\[05] Signaling with Event Wait Handles.csprojAssemblyReference.cache
+E:\Github\CSharp-in-a-Nutshell-master\[05] Signaling with Event Wait Handles\obj\Debug\[05] Signaling with Event Wait Handles.csproj.CoreCompileInputs.cache
+E:\Github\CSharp-in-a-Nutshell-master\[05] Signaling with Event Wait Handles\obj\Debug\[05] Signaling with Event Wait Handles.csproj.CopyComplete
+E:\Github\CSharp-in-a-Nutshell-master\[05] Signaling with Event Wait Handles\obj\Debug\[05] Signaling with Event Wait Handles.exe
+E:\Github\CSharp-in-a-Nutshell-master\[05] Signaling with Event Wait Handles\obj\Debug\[05] Signaling with Event Wait Handles.pdb

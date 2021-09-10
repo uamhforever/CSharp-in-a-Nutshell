@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Threading.Tasks.Dataflow;
@@ -15,14 +14,20 @@ namespace _04__Asynchronous_Function
     {
         static void Main(string[] args)
         {
+            //_02__Awaiting_in_a_UI.Show();
+
+            //new _03__Returning_Task_of_TResult().Show();
+
             //AsyncBasic asyncBasic = new AsyncBasic();
             //asyncBasic.Show();
 
             //ParallelBasic parallelBasic = new ParallelBasic();
             //parallelBasic.Show();
 
-            DataFlowBasic dataFlow = new DataFlowBasic();
-            dataFlow.Show();
+            //DataFlowBasic dataFlow = new DataFlowBasic();
+            //dataFlow.Show();
+
+            _07__Async_Stream.Show();
 
             Console.WriteLine("Main Thread End.");
             Console.ReadKey();
@@ -184,9 +189,9 @@ namespace _04__Asynchronous_Function
             // Async 方法恢复运行时，会丢弃上下文
             //Console.WriteLine("ResumeWithoutContextAsync" + Thread.CurrentThread.ManagedThreadId);
         }
-       
 
-      
+
+
 
 
     }
@@ -217,7 +222,7 @@ namespace _04__Asynchronous_Function
                   else
                   {
                       state.Stop();   // 停止并行运行(内部) 另:CancellationToken(外部)
-                }
+                  }
               });
         }
 
@@ -346,11 +351,11 @@ namespace _04__Asynchronous_Function
             multiplyBlock.LinkTo(subtractBlock);
         }
     }
-        #endregion
+    #endregion
 
     // 5.Rx基础
 
 
-  
-   
+
+
 }

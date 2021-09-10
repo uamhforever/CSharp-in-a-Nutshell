@@ -7,3 +7,13 @@ F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Asynchronous Patters\obj\Debug\[05]
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Asynchronous Patters\bin\Debug\Common.dll
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Asynchronous Patters\bin\Debug\Common.pdb
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[05] Asynchronous Patters\obj\Debug\[05] Asynchronous Patters.csproj.CopyComplete
+E:\Github\CSharp-in-a-Nutshell-master\[05] Asynchronous Patters\bin\Debug\[05] Asynchronous Patters.exe.config
+E:\Github\CSharp-in-a-Nutshell-master\[05] Asynchronous Patters\bin\Debug\[05] Asynchronous Patters.exe
+E:\Github\CSharp-in-a-Nutshell-master\[05] Asynchronous Patters\bin\Debug\[05] Asynchronous Patters.pdb
+E:\Github\CSharp-in-a-Nutshell-master\[05] Asynchronous Patters\bin\Debug\Common.dll
+E:\Github\CSharp-in-a-Nutshell-master\[05] Asynchronous Patters\bin\Debug\Common.pdb
+E:\Github\CSharp-in-a-Nutshell-master\[05] Asynchronous Patters\obj\Debug\[05] Asynchronous Patters.csprojAssemblyReference.cache
+E:\Github\CSharp-in-a-Nutshell-master\[05] Asynchronous Patters\obj\Debug\[05] Asynchronous Patters.csproj.CoreCompileInputs.cache
+E:\Github\CSharp-in-a-Nutshell-master\[05] Asynchronous Patters\obj\Debug\[05] Asynchronous Patters.csproj.CopyComplete
+E:\Github\CSharp-in-a-Nutshell-master\[05] Asynchronous Patters\obj\Debug\[05] Asynchronous Patters.exe
+E:\Github\CSharp-in-a-Nutshell-master\[05] Asynchronous Patters\obj\Debug\[05] Asynchronous Patters.pdb

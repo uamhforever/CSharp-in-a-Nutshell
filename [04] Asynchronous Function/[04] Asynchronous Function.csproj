@@ -58,6 +58,7 @@
     <Compile Include="[04] Async Lambda.cs" />
     <Compile Include="[05] Async Caching.cs" />
     <Compile Include="[06] Aysnc Rebound.cs" />
+    <Compile Include="[07] Async Stream.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

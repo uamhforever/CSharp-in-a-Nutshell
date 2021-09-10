@@ -1,13 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
 namespace _05__Asynchronous_Patters
 {
-    public   class _01__Task_Cancellation
+    public class _01__Task_Cancellation
     {
         public async static void Show()
         {
@@ -25,12 +22,12 @@ namespace _05__Asynchronous_Patters
             }
             // 
             {
-                var cancelSource = new CancellationTokenSource(2000);
-                try{ await new MyTask().Foo(cancelSource.Token); }
+                var cancelSource = new CancellationTokenSource(2000); // // Tell it to cancel in two seconds.
+                try { await new MyTask().Foo(cancelSource.Token); }
                 catch (OperationCanceledException ocex)
-                { Console.WriteLine("Canceled after 2 seconds");  } 
+                { Console.WriteLine("Canceled after 2 seconds"); }
             }
-        }     
+        }
     }
 
     class MyCancellationToken
@@ -45,7 +42,7 @@ namespace _05__Asynchronous_Patters
 
     class MyTask
     {
-      public async Task Foo(MyCancellationToken myCancellationToken)
+        public async Task Foo(MyCancellationToken myCancellationToken)
         {
             for (int i = 0; i < 10; i++)
             {
@@ -65,6 +62,6 @@ namespace _05__Asynchronous_Patters
             }
         }
     }
-   
+
 
 }

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _05__Signaling_with_Event_Wait_Handles
 {
@@ -26,9 +22,14 @@ namespace _05__Signaling_with_Event_Wait_Handles
              
              */
 
-            _01__AutoResetEvent.Show();
+            //_01__AutoResetEvent.Show();
 
-            _05__Two_way_signaling.Show();
+            //_05__Two_way_signaling.Show();
+
+            //_10__CountdownEvent.Show();
+
+            _15__Wait_Handles_and_continuations.Show();
+
             Console.ReadKey();
         }
     }

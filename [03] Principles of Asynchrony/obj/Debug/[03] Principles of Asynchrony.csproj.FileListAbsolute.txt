@@ -4,3 +4,10 @@ F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Principles of Asynchrony\bin\Debug\
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Principles of Asynchrony\obj\Debug\[03] Principles of Asynchrony.csproj.CoreCompileInputs.cache
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Principles of Asynchrony\obj\Debug\[03] Principles of Asynchrony.exe
 F:\Learn\00.基础\CSharp-in-a-Nutshell\[03] Principles of Asynchrony\obj\Debug\[03] Principles of Asynchrony.pdb
+E:\Github\CSharp-in-a-Nutshell-master\[03] Principles of Asynchrony\bin\Debug\[03] Principles of Asynchrony.exe.config
+E:\Github\CSharp-in-a-Nutshell-master\[03] Principles of Asynchrony\bin\Debug\[03] Principles of Asynchrony.exe
+E:\Github\CSharp-in-a-Nutshell-master\[03] Principles of Asynchrony\bin\Debug\[03] Principles of Asynchrony.pdb
+E:\Github\CSharp-in-a-Nutshell-master\[03] Principles of Asynchrony\obj\Debug\[03] Principles of Asynchrony.csprojAssemblyReference.cache
+E:\Github\CSharp-in-a-Nutshell-master\[03] Principles of Asynchrony\obj\Debug\[03] Principles of Asynchrony.csproj.CoreCompileInputs.cache
+E:\Github\CSharp-in-a-Nutshell-master\[03] Principles of Asynchrony\obj\Debug\[03] Principles of Asynchrony.exe
+E:\Github\CSharp-in-a-Nutshell-master\[03] Principles of Asynchrony\obj\Debug\[03] Principles of Asynchrony.pdb

@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace _05__Asynchronous_Patters
@@ -9,7 +6,7 @@ namespace _05__Asynchronous_Patters
     /// <summary>
     /// 进度报告
     /// </summary>
-   public class _02__Progress_Reporting
+    public class _02__Progress_Reporting
     {
         public async static void Show()
         {
@@ -22,8 +19,14 @@ namespace _05__Asynchronous_Patters
             {
                 var repporter = new Progress<int>(i => Console.WriteLine(i + " %")
                 );
+                repporter.ProgressChanged += Repporter_ProgressChanged;
                 await new MyTask().Foo(repporter);
             }
+        }
+
+        private static void Repporter_ProgressChanged(object sender, int e)
+        {
+
         }
 
         class MyTask
@@ -45,7 +48,8 @@ namespace _05__Asynchronous_Patters
                 {
                     for (int i = 0; i < 1000; i++)
                     {
-                        if (i % 10 == 0) onProgressPercentChanged.Report(i / 10);
+                        if (i % 10 == 0)
+                            onProgressPercentChanged.Report(i / 10);
                     }
                 });
             }

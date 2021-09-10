@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -12,28 +9,30 @@ namespace _02__Tasks
     /// </summary>
     public class _04TaskCompletionSource
     {
-        public  void Show()
+        Task<TResult> Run<TResult>(Func<TResult> func)  // 本地函数
         {
-           
+            var tcs = new TaskCompletionSource<TResult>();
+            new Thread(() =>
+            {
+                try { tcs.SetResult(func()); }
+                catch (Exception ex) { tcs.SetException(ex); }
+            }).Start();
+            return tcs.Task;
+        }
+
+        public void Show()
+        {
+            // TaskCompletionSource
+            {
+                TakeMeasures();
+            }
 
             // Run define func 
             {
-                //Task<TResult> Run<TResult>(Func<TResult> func)  // 本地函数
-                //{
-                //    var tcs = new TaskCompletionSource<TResult>();
-                //    new Thread(() =>
-                //    {
-                //        try { tcs.SetResult(func()); }
-                //        catch (Exception ex) { tcs.SetException(ex); }
-                //    }).Start();
-                //    return tcs.Task;
-                //}
-
-                //Func<int> func = () =>  { Thread.Sleep(3000); return 42; };
-                //Task<int> task = Run<int>(func);    // 调用自己的 Run 方法
-                //Console.WriteLine(task.Result);     // 42 会阻塞
-                //Console.WriteLine("Main Thread Point #2");
-
+                Func<int> func = () => { Thread.Sleep(3000); return 42; };
+                Task<int> task = Run<int>(func);    // 调用自己的 Run 方法
+                Console.WriteLine(task.Result);     // 42 会阻塞
+                Console.WriteLine("Main Thread Point #2");
             }
             // My Async Delay method
             {
@@ -57,7 +56,7 @@ namespace _02__Tasks
                 Task.Delay(5000).GetAwaiter().OnCompleted(() => Console.WriteLine(42));
                 Task.Delay(5000).ContinueWith(t => Console.WriteLine(42));
             }
-           
+
         }
 
         /// <summary>
@@ -66,12 +65,13 @@ namespace _02__Tasks
         public void TakeMeasures()
         {
             // Print 42 after 5 seconds
-                var tcs = new TaskCompletionSource<int>();
-                new Thread(() => { Thread.Sleep(5000); tcs.SetResult(42); }).Start();
-                Task<int> task = tcs.Task;          // Our "slave" task.
-                Console.WriteLine(task.Result);     // 42 会阻塞
-                Console.WriteLine("Main Thread Point #1");    
+            var tcs = new TaskCompletionSource<int>();
+            new Thread(() => { Thread.Sleep(5000); tcs.SetResult(42); }).Start();
+            Task<int> task = tcs.Task;          // Our "slave" task.
+            Console.WriteLine(task.Result);     // 42 会阻塞
+            Console.WriteLine("Main Thread Point #1");
         }
+
 
         /// <summary>
         /// 利用TaskCompletionSource创建任务
